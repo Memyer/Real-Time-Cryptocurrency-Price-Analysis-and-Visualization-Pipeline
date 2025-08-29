@@ -1,0 +1,30 @@
+﻿# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data files (optional - uncomment to exclude data)
+# crypto_data.csv
+# *.csv
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# API keys (if stored in separate files)
+api_keys.txt
+config.py
